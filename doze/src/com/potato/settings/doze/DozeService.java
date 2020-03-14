@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.potato.settings.doze;
+package xxx.killcmd.settings.doze;
 
 import android.app.Service;
 import android.content.BroadcastReceiver;
